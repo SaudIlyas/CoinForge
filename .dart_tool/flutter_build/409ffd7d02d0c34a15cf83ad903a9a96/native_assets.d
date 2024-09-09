@@ -1,0 +1,1 @@
+ C:\\Myfiles\\FlutterApps\\coinforge\\.dart_tool\\flutter_build\\409ffd7d02d0c34a15cf83ad903a9a96\\native_assets.yaml: 
